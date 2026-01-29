@@ -23,4 +23,8 @@ collections:
           - label: "Category"
             name: "category"
             widget: select
-            options: ["Rings", "Necklaces", "Custom"]
+            options:
+              - Rings
+              - Necklaces
+              - Custom
+              - CAD

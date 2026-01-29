@@ -4,7 +4,11 @@
       "image": "/assets/images/ring1.jpg",
       "title": "Custom Engagement Ring",
       "category": "Rings"
+    },
+    {
+      "image": "/assets/cad/ring-render.jpg",
+      "title": "Pavé Ring CAD – Rhino",
+      "category": "CAD"
     }
   ]
 }
-
