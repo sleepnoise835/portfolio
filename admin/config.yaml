@@ -6,7 +6,7 @@ media_folder: "/assets/images"
 public_folder: "/assets/images"
 
 collections:
-  - name: "gallery
+  - name: "gallery"
     label: "Gallery"
     file: "gallery.json"
     fields:
